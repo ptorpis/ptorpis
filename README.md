@@ -23,16 +23,15 @@ Public module from a larger private trading system:
 ---
 
 ### Skills & Tools
-**Languages:** C/C++, Python, Bash, SQL
-**Core Areas:** Low-latency systems • Network programming (epoll, sockets) • Profiling & optimization • Simulation frameworks
-**Tools:** Linux, Git, CMake, Valgrind, perf, GoogleTest, PyTest, Pybind11, QuantLib, Pandas, Matplotlib
+- **Languages:** C/C++, Python, Bash, SQL
+- **Core Areas:** Low-latency systems • Network programming (epoll, sockets) • Profiling & optimization • Simulation frameworks
+- **Tools:** Linux, Git, CMake, Valgrind, perf, GoogleTest, PyTest, Pybind11, QuantLib, Pandas, Matplotlib
 
 ---
 
 ### Currently Exploring
 - Market microstructure & exchange design
 - Quantitative strategies & backtesting infrastructure
-- Performance optimization for real-time financial data
 
 ---
 
