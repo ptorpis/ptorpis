@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Peter Torpis
 
-Final-year **Economics student** based in Sweden, building the bridge between **finance and high-performance software engineering**.  
-I specialize in **C++** and **Python**, with a focus on **low-latency systems**, **market simulations**, and **quantitative research tools**.
+3rd year economics student based in Sweden, strong interest in trading systems, exchanges, and finance in general.
 
 ---
 
@@ -18,8 +17,6 @@ A full-featured simulated exchange built in **C++23**, featuring:
 Public module from a larger private trading system:
 - Built on top of **QuantLib**
 - **JSON-configurable pricing** for bid/ask/mid quotes
-- **SQLite-backed** historical data management
-
 ---
 
 ### Skills & Tools
