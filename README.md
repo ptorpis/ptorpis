@@ -15,7 +15,7 @@ Built a distributed financial exchange in C++23;
 - [Read the accompanying technical paper (note that this project has been rewritten since the paper's release)](https://www.linkedin.com/posts/peter-torpis_miniexchangev2-design-activity-7392093452899074048-tAap?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiSQtAB2CjOhqMvA-733DjMimAXlh8wEng)
 
 ### [Data Structures](https://github.com/ptorpis/data-structures)
-- Implemented and tested `vector` 
+- Implemented and tested `vector`
 - Implemented a Lock-free Single Producer - Single Consumer Queue, and a version of it that works in shared memory
 - More structures planned in the future
 
@@ -27,5 +27,4 @@ Public module from a larger private trading system:
 
 ### Connect
 - 📫 ptorpis@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/peter-torpis/)  
-- 💻 [GitHub](https://github.com/ptorpis)
+- 💼 [LinkedIn](https://www.linkedin.com/in/peter-torpis/)
