@@ -19,12 +19,6 @@ Built a distributed financial exchange in C++23;
 - Implemented a Lock-free Single Producer - Single Consumer Queue, and a version of it that works in shared memory
 - More structures planned in the future
 
-###  [Options Pricing Framework](https://github.com/ptorpis/options_pricing_v2)
-Public module from a larger private trading system:
-- Built on top of **QuantLib**
-- **JSON-configurable pricing** for bid/ask/mid quotes
-
-
 ### Connect
 - 📫 ptorpis@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/peter-torpis/)
